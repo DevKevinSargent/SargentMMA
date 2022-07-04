@@ -13,3 +13,5 @@ Also feel free to send me any inquiries. I'm very eager to get working.
 
 Thank you,
 Kevin M. Sargent
+
+edit: I noticed Windows doesn't trust my game program but I can certify as the only contributor that it's 100% safe and no installation is necessary. Feel free tio scan it with anti-virus software prior to launch. It's just a ton of scripts, artwork, and a few music tracks. The scripts are 100% done by myself. The artwork is 99% done by me. The music (only a few songs) however is aquired from people who are far more musically giften than myself. 
