@@ -4,7 +4,8 @@ I want to make this a bit informal. My name is Kevin. I'm a CompTIA certified pr
 
 Goggle Drive links:
 
-* AI Hero: The Future - Robot Wars https://drive.google.com/file/d/1L3Gjli7ctv2QXOHHgiSldf9He9tgwtan/view?usp=sharing
+* AI Hero: The Future - Robot Wars 
+https://aihero.itch.io/ai-hero-the-future-robot-wars
 * CompTIA Certification - https://drive.google.com/file/d/0BykdCwOAafWTazh1aDRka1FpX1E/view?usp=sharing&resourcekey=0-n_eGigS0T03TwRr0YGA10A
 * Technical Support - https://drive.google.com/file/d/0BykdCwOAafWTNF80Vmh6Q1VpN0k/view?usp=sharing&resourcekey=0-z9TSsBMy7g8XXQy5hxhngQ
 * Fiberoptic/Coaxial Technician - https://drive.google.com/file/d/0BykdCwOAafWTb1Rwb2hIc1FHWFE/view?usp=sharing&resourcekey=0-5KzFnVWQoqN7V0CeisL6uw
