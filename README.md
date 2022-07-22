@@ -4,6 +4,7 @@ I want to make this a bit informal. My name is Kevin. I'm a CompTIA certified pr
 
 Goggle Drive links:
 
+* Resume - https://drive.google.com/file/d/1zEqHL4azB6znaBANj14-STpp7IqQnO3v/view?usp=sharing
 * AI Hero: The Future - Robot Wars 
 https://aihero.itch.io/ai-hero-the-future-robot-wars
 * CompTIA Certification - https://drive.google.com/file/d/0BykdCwOAafWTazh1aDRka1FpX1E/view?usp=sharing&resourcekey=0-n_eGigS0T03TwRr0YGA10A
